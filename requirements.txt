@@ -1,0 +1,7 @@
+
+ctgan
+pandas
+scikit-learn
+sdv
+os
+
