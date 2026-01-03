@@ -69,4 +69,5 @@ The synthetic data was compared against real data using PCA plots. The high over
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/loan-default-ctgan.git](https://github.com/your-username/loan-default-ctgan.git)
+   git clone [https://github.com/parihariitian/Loan-Default-Synthetic-Data-CTGAN.git]
+
